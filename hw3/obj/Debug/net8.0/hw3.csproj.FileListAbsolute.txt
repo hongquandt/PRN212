@@ -1,0 +1,14 @@
+D:\Ky5\prn211\FCODECLASS\BTVNDesignPattern\hw3\bin\Debug\net8.0\hw3.exe
+D:\Ky5\prn211\FCODECLASS\BTVNDesignPattern\hw3\bin\Debug\net8.0\hw3.deps.json
+D:\Ky5\prn211\FCODECLASS\BTVNDesignPattern\hw3\bin\Debug\net8.0\hw3.runtimeconfig.json
+D:\Ky5\prn211\FCODECLASS\BTVNDesignPattern\hw3\bin\Debug\net8.0\hw3.dll
+D:\Ky5\prn211\FCODECLASS\BTVNDesignPattern\hw3\bin\Debug\net8.0\hw3.pdb
+D:\Ky5\prn211\FCODECLASS\BTVNDesignPattern\hw3\obj\Debug\net8.0\hw3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ky5\prn211\FCODECLASS\BTVNDesignPattern\hw3\obj\Debug\net8.0\hw3.AssemblyInfoInputs.cache
+D:\Ky5\prn211\FCODECLASS\BTVNDesignPattern\hw3\obj\Debug\net8.0\hw3.AssemblyInfo.cs
+D:\Ky5\prn211\FCODECLASS\BTVNDesignPattern\hw3\obj\Debug\net8.0\hw3.csproj.CoreCompileInputs.cache
+D:\Ky5\prn211\FCODECLASS\BTVNDesignPattern\hw3\obj\Debug\net8.0\hw3.dll
+D:\Ky5\prn211\FCODECLASS\BTVNDesignPattern\hw3\obj\Debug\net8.0\refint\hw3.dll
+D:\Ky5\prn211\FCODECLASS\BTVNDesignPattern\hw3\obj\Debug\net8.0\hw3.pdb
+D:\Ky5\prn211\FCODECLASS\BTVNDesignPattern\hw3\obj\Debug\net8.0\hw3.genruntimeconfig.cache
+D:\Ky5\prn211\FCODECLASS\BTVNDesignPattern\hw3\obj\Debug\net8.0\ref\hw3.dll
