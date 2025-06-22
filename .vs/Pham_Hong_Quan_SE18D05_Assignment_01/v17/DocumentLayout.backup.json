@@ -1,0 +1,423 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Ky5\\prn211\\INCLASS\\Pham_Hong_Quan_SE18D05_Assignment_01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B77D1771-9628-421E-84D7-63E3D9A115B2}|DataAccessLayer\\DataAccessLayer.csproj|d:\\ky5\\prn211\\inclass\\pham_hong_quan_se18d05_assignment_01\\dataaccesslayer\\datacontext\\inmemorydatacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B77D1771-9628-421E-84D7-63E3D9A115B2}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\datacontext\\inmemorydatacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1539BA8-2E30-4235-9DD4-AC77A609FC24}|Pham_Hong_Quan_SE18D05_Assignment_01\\Pham_Hong_Quan_SE18D05_Assignment_01.csproj|d:\\ky5\\prn211\\inclass\\pham_hong_quan_se18d05_assignment_01\\pham_hong_quan_se18d05_assignment_01\\views\\customerwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1539BA8-2E30-4235-9DD4-AC77A609FC24}|Pham_Hong_Quan_SE18D05_Assignment_01\\Pham_Hong_Quan_SE18D05_Assignment_01.csproj|solutionrelative:pham_hong_quan_se18d05_assignment_01\\views\\customerwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1539BA8-2E30-4235-9DD4-AC77A609FC24}|Pham_Hong_Quan_SE18D05_Assignment_01\\Pham_Hong_Quan_SE18D05_Assignment_01.csproj|d:\\ky5\\prn211\\inclass\\pham_hong_quan_se18d05_assignment_01\\pham_hong_quan_se18d05_assignment_01\\views\\customerwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E1539BA8-2E30-4235-9DD4-AC77A609FC24}|Pham_Hong_Quan_SE18D05_Assignment_01\\Pham_Hong_Quan_SE18D05_Assignment_01.csproj|solutionrelative:pham_hong_quan_se18d05_assignment_01\\views\\customerwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1539BA8-2E30-4235-9DD4-AC77A609FC24}|Pham_Hong_Quan_SE18D05_Assignment_01\\Pham_Hong_Quan_SE18D05_Assignment_01.csproj|d:\\ky5\\prn211\\inclass\\pham_hong_quan_se18d05_assignment_01\\pham_hong_quan_se18d05_assignment_01\\views\\bookingcreatewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1539BA8-2E30-4235-9DD4-AC77A609FC24}|Pham_Hong_Quan_SE18D05_Assignment_01\\Pham_Hong_Quan_SE18D05_Assignment_01.csproj|solutionrelative:pham_hong_quan_se18d05_assignment_01\\views\\bookingcreatewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1539BA8-2E30-4235-9DD4-AC77A609FC24}|Pham_Hong_Quan_SE18D05_Assignment_01\\Pham_Hong_Quan_SE18D05_Assignment_01.csproj|d:\\ky5\\prn211\\inclass\\pham_hong_quan_se18d05_assignment_01\\pham_hong_quan_se18d05_assignment_01\\views\\bookingcreatewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E1539BA8-2E30-4235-9DD4-AC77A609FC24}|Pham_Hong_Quan_SE18D05_Assignment_01\\Pham_Hong_Quan_SE18D05_Assignment_01.csproj|solutionrelative:pham_hong_quan_se18d05_assignment_01\\views\\bookingcreatewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1539BA8-2E30-4235-9DD4-AC77A609FC24}|Pham_Hong_Quan_SE18D05_Assignment_01\\Pham_Hong_Quan_SE18D05_Assignment_01.csproj|d:\\ky5\\prn211\\inclass\\pham_hong_quan_se18d05_assignment_01\\pham_hong_quan_se18d05_assignment_01\\viewmodels\\bookingcreateviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1539BA8-2E30-4235-9DD4-AC77A609FC24}|Pham_Hong_Quan_SE18D05_Assignment_01\\Pham_Hong_Quan_SE18D05_Assignment_01.csproj|solutionrelative:pham_hong_quan_se18d05_assignment_01\\viewmodels\\bookingcreateviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1539BA8-2E30-4235-9DD4-AC77A609FC24}|Pham_Hong_Quan_SE18D05_Assignment_01\\Pham_Hong_Quan_SE18D05_Assignment_01.csproj|d:\\ky5\\prn211\\inclass\\pham_hong_quan_se18d05_assignment_01\\pham_hong_quan_se18d05_assignment_01\\views\\adminwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E1539BA8-2E30-4235-9DD4-AC77A609FC24}|Pham_Hong_Quan_SE18D05_Assignment_01\\Pham_Hong_Quan_SE18D05_Assignment_01.csproj|solutionrelative:pham_hong_quan_se18d05_assignment_01\\views\\adminwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1539BA8-2E30-4235-9DD4-AC77A609FC24}|Pham_Hong_Quan_SE18D05_Assignment_01\\Pham_Hong_Quan_SE18D05_Assignment_01.csproj|d:\\ky5\\prn211\\inclass\\pham_hong_quan_se18d05_assignment_01\\pham_hong_quan_se18d05_assignment_01\\viewmodels\\baseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1539BA8-2E30-4235-9DD4-AC77A609FC24}|Pham_Hong_Quan_SE18D05_Assignment_01\\Pham_Hong_Quan_SE18D05_Assignment_01.csproj|solutionrelative:pham_hong_quan_se18d05_assignment_01\\viewmodels\\baseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1539BA8-2E30-4235-9DD4-AC77A609FC24}|Pham_Hong_Quan_SE18D05_Assignment_01\\Pham_Hong_Quan_SE18D05_Assignment_01.csproj|d:\\ky5\\prn211\\inclass\\pham_hong_quan_se18d05_assignment_01\\pham_hong_quan_se18d05_assignment_01\\converters\\stringtovisibilityconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1539BA8-2E30-4235-9DD4-AC77A609FC24}|Pham_Hong_Quan_SE18D05_Assignment_01\\Pham_Hong_Quan_SE18D05_Assignment_01.csproj|solutionrelative:pham_hong_quan_se18d05_assignment_01\\converters\\stringtovisibilityconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B77D1771-9628-421E-84D7-63E3D9A115B2}|DataAccessLayer\\DataAccessLayer.csproj|d:\\ky5\\prn211\\inclass\\pham_hong_quan_se18d05_assignment_01\\dataaccesslayer\\repositories\\ibookingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B77D1771-9628-421E-84D7-63E3D9A115B2}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\repositories\\ibookingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B77D1771-9628-421E-84D7-63E3D9A115B2}|DataAccessLayer\\DataAccessLayer.csproj|d:\\ky5\\prn211\\inclass\\pham_hong_quan_se18d05_assignment_01\\dataaccesslayer\\repositories\\bookingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B77D1771-9628-421E-84D7-63E3D9A115B2}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\repositories\\bookingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A86235AD-B5CF-4FFC-9C3A-BB0FA0D5D718}|BusinessObjects\\BusinessObjects.csproj|d:\\ky5\\prn211\\inclass\\pham_hong_quan_se18d05_assignment_01\\businessobjects\\bookingreservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A86235AD-B5CF-4FFC-9C3A-BB0FA0D5D718}|BusinessObjects\\BusinessObjects.csproj|solutionrelative:businessobjects\\bookingreservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A86235AD-B5CF-4FFC-9C3A-BB0FA0D5D718}|BusinessObjects\\BusinessObjects.csproj|d:\\ky5\\prn211\\inclass\\pham_hong_quan_se18d05_assignment_01\\businessobjects\\bookingdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A86235AD-B5CF-4FFC-9C3A-BB0FA0D5D718}|BusinessObjects\\BusinessObjects.csproj|solutionrelative:businessobjects\\bookingdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B77D1771-9628-421E-84D7-63E3D9A115B2}|DataAccessLayer\\DataAccessLayer.csproj|d:\\ky5\\prn211\\inclass\\pham_hong_quan_se18d05_assignment_01\\dataaccesslayer\\repositories\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B77D1771-9628-421E-84D7-63E3D9A115B2}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\repositories\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1539BA8-2E30-4235-9DD4-AC77A609FC24}|Pham_Hong_Quan_SE18D05_Assignment_01\\Pham_Hong_Quan_SE18D05_Assignment_01.csproj|d:\\ky5\\prn211\\inclass\\pham_hong_quan_se18d05_assignment_01\\pham_hong_quan_se18d05_assignment_01\\views\\bookingeditwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E1539BA8-2E30-4235-9DD4-AC77A609FC24}|Pham_Hong_Quan_SE18D05_Assignment_01\\Pham_Hong_Quan_SE18D05_Assignment_01.csproj|solutionrelative:pham_hong_quan_se18d05_assignment_01\\views\\bookingeditwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1539BA8-2E30-4235-9DD4-AC77A609FC24}|Pham_Hong_Quan_SE18D05_Assignment_01\\Pham_Hong_Quan_SE18D05_Assignment_01.csproj|d:\\ky5\\prn211\\inclass\\pham_hong_quan_se18d05_assignment_01\\pham_hong_quan_se18d05_assignment_01\\views\\bookingeditwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1539BA8-2E30-4235-9DD4-AC77A609FC24}|Pham_Hong_Quan_SE18D05_Assignment_01\\Pham_Hong_Quan_SE18D05_Assignment_01.csproj|solutionrelative:pham_hong_quan_se18d05_assignment_01\\views\\bookingeditwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1539BA8-2E30-4235-9DD4-AC77A609FC24}|Pham_Hong_Quan_SE18D05_Assignment_01\\Pham_Hong_Quan_SE18D05_Assignment_01.csproj|d:\\ky5\\prn211\\inclass\\pham_hong_quan_se18d05_assignment_01\\pham_hong_quan_se18d05_assignment_01\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E1539BA8-2E30-4235-9DD4-AC77A609FC24}|Pham_Hong_Quan_SE18D05_Assignment_01\\Pham_Hong_Quan_SE18D05_Assignment_01.csproj|solutionrelative:pham_hong_quan_se18d05_assignment_01\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1539BA8-2E30-4235-9DD4-AC77A609FC24}|Pham_Hong_Quan_SE18D05_Assignment_01\\Pham_Hong_Quan_SE18D05_Assignment_01.csproj|d:\\ky5\\prn211\\inclass\\pham_hong_quan_se18d05_assignment_01\\pham_hong_quan_se18d05_assignment_01\\viewmodels\\bookingeditviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1539BA8-2E30-4235-9DD4-AC77A609FC24}|Pham_Hong_Quan_SE18D05_Assignment_01\\Pham_Hong_Quan_SE18D05_Assignment_01.csproj|solutionrelative:pham_hong_quan_se18d05_assignment_01\\viewmodels\\bookingeditviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A86235AD-B5CF-4FFC-9C3A-BB0FA0D5D718}|BusinessObjects\\BusinessObjects.csproj|d:\\ky5\\prn211\\inclass\\pham_hong_quan_se18d05_assignment_01\\businessobjects\\roomtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A86235AD-B5CF-4FFC-9C3A-BB0FA0D5D718}|BusinessObjects\\BusinessObjects.csproj|solutionrelative:businessobjects\\roomtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A86235AD-B5CF-4FFC-9C3A-BB0FA0D5D718}|BusinessObjects\\BusinessObjects.csproj|d:\\ky5\\prn211\\inclass\\pham_hong_quan_se18d05_assignment_01\\businessobjects\\roominformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A86235AD-B5CF-4FFC-9C3A-BB0FA0D5D718}|BusinessObjects\\BusinessObjects.csproj|solutionrelative:businessobjects\\roominformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1539BA8-2E30-4235-9DD4-AC77A609FC24}|Pham_Hong_Quan_SE18D05_Assignment_01\\Pham_Hong_Quan_SE18D05_Assignment_01.csproj|d:\\ky5\\prn211\\inclass\\pham_hong_quan_se18d05_assignment_01\\pham_hong_quan_se18d05_assignment_01\\views\\adminwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1539BA8-2E30-4235-9DD4-AC77A609FC24}|Pham_Hong_Quan_SE18D05_Assignment_01\\Pham_Hong_Quan_SE18D05_Assignment_01.csproj|solutionrelative:pham_hong_quan_se18d05_assignment_01\\views\\adminwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1539BA8-2E30-4235-9DD4-AC77A609FC24}|Pham_Hong_Quan_SE18D05_Assignment_01\\Pham_Hong_Quan_SE18D05_Assignment_01.csproj|d:\\ky5\\prn211\\inclass\\pham_hong_quan_se18d05_assignment_01\\pham_hong_quan_se18d05_assignment_01\\views\\roomeditwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1539BA8-2E30-4235-9DD4-AC77A609FC24}|Pham_Hong_Quan_SE18D05_Assignment_01\\Pham_Hong_Quan_SE18D05_Assignment_01.csproj|solutionrelative:pham_hong_quan_se18d05_assignment_01\\views\\roomeditwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1539BA8-2E30-4235-9DD4-AC77A609FC24}|Pham_Hong_Quan_SE18D05_Assignment_01\\Pham_Hong_Quan_SE18D05_Assignment_01.csproj|d:\\ky5\\prn211\\inclass\\pham_hong_quan_se18d05_assignment_01\\pham_hong_quan_se18d05_assignment_01\\views\\customereditwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E1539BA8-2E30-4235-9DD4-AC77A609FC24}|Pham_Hong_Quan_SE18D05_Assignment_01\\Pham_Hong_Quan_SE18D05_Assignment_01.csproj|solutionrelative:pham_hong_quan_se18d05_assignment_01\\views\\customereditwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 336,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CustomerEditWindow.xaml",
+              "DocumentMoniker": "D:\\Ky5\\prn211\\INCLASS\\Pham_Hong_Quan_SE18D05_Assignment_01\\Pham_Hong_Quan_SE18D05_Assignment_01\\Views\\CustomerEditWindow.xaml",
+              "RelativeDocumentMoniker": "Pham_Hong_Quan_SE18D05_Assignment_01\\Views\\CustomerEditWindow.xaml",
+              "ToolTip": "D:\\Ky5\\prn211\\INCLASS\\Pham_Hong_Quan_SE18D05_Assignment_01\\Pham_Hong_Quan_SE18D05_Assignment_01\\Views\\CustomerEditWindow.xaml",
+              "RelativeToolTip": "Pham_Hong_Quan_SE18D05_Assignment_01\\Views\\CustomerEditWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-22T06:07:19.114Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BookingDetail.cs",
+              "DocumentMoniker": "D:\\Ky5\\prn211\\INCLASS\\Pham_Hong_Quan_SE18D05_Assignment_01\\BusinessObjects\\BookingDetail.cs",
+              "RelativeDocumentMoniker": "BusinessObjects\\BookingDetail.cs",
+              "ToolTip": "D:\\Ky5\\prn211\\INCLASS\\Pham_Hong_Quan_SE18D05_Assignment_01\\BusinessObjects\\BookingDetail.cs",
+              "RelativeToolTip": "BusinessObjects\\BookingDetail.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAwwA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T06:08:48.576Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BookingCreateWindow.xaml.cs",
+              "DocumentMoniker": "D:\\Ky5\\prn211\\INCLASS\\Pham_Hong_Quan_SE18D05_Assignment_01\\Pham_Hong_Quan_SE18D05_Assignment_01\\Views\\BookingCreateWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Pham_Hong_Quan_SE18D05_Assignment_01\\Views\\BookingCreateWindow.xaml.cs",
+              "ToolTip": "D:\\Ky5\\prn211\\INCLASS\\Pham_Hong_Quan_SE18D05_Assignment_01\\Pham_Hong_Quan_SE18D05_Assignment_01\\Views\\BookingCreateWindow.xaml.cs",
+              "RelativeToolTip": "Pham_Hong_Quan_SE18D05_Assignment_01\\Views\\BookingCreateWindow.xaml.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAIwCMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T05:52:44.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomerWindow.xaml",
+              "DocumentMoniker": "D:\\Ky5\\prn211\\INCLASS\\Pham_Hong_Quan_SE18D05_Assignment_01\\Pham_Hong_Quan_SE18D05_Assignment_01\\Views\\CustomerWindow.xaml",
+              "RelativeDocumentMoniker": "Pham_Hong_Quan_SE18D05_Assignment_01\\Views\\CustomerWindow.xaml",
+              "ToolTip": "D:\\Ky5\\prn211\\INCLASS\\Pham_Hong_Quan_SE18D05_Assignment_01\\Pham_Hong_Quan_SE18D05_Assignment_01\\Views\\CustomerWindow.xaml",
+              "RelativeToolTip": "Pham_Hong_Quan_SE18D05_Assignment_01\\Views\\CustomerWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-22T10:02:33.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomerWindow.xaml.cs",
+              "DocumentMoniker": "D:\\Ky5\\prn211\\INCLASS\\Pham_Hong_Quan_SE18D05_Assignment_01\\Pham_Hong_Quan_SE18D05_Assignment_01\\Views\\CustomerWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Pham_Hong_Quan_SE18D05_Assignment_01\\Views\\CustomerWindow.xaml.cs",
+              "ToolTip": "D:\\Ky5\\prn211\\INCLASS\\Pham_Hong_Quan_SE18D05_Assignment_01\\Pham_Hong_Quan_SE18D05_Assignment_01\\Views\\CustomerWindow.xaml.cs",
+              "RelativeToolTip": "Pham_Hong_Quan_SE18D05_Assignment_01\\Views\\CustomerWindow.xaml.cs",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAIwHMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T05:53:41.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "InMemoryDataContext.cs",
+              "DocumentMoniker": "D:\\Ky5\\prn211\\INCLASS\\Pham_Hong_Quan_SE18D05_Assignment_01\\DataAccessLayer\\DataContext\\InMemoryDataContext.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\DataContext\\InMemoryDataContext.cs",
+              "ToolTip": "D:\\Ky5\\prn211\\INCLASS\\Pham_Hong_Quan_SE18D05_Assignment_01\\DataAccessLayer\\DataContext\\InMemoryDataContext.cs",
+              "RelativeToolTip": "DataAccessLayer\\DataContext\\InMemoryDataContext.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAIwFgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T06:26:08.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BookingCreateWindow.xaml",
+              "DocumentMoniker": "D:\\Ky5\\prn211\\INCLASS\\Pham_Hong_Quan_SE18D05_Assignment_01\\Pham_Hong_Quan_SE18D05_Assignment_01\\Views\\BookingCreateWindow.xaml",
+              "RelativeDocumentMoniker": "Pham_Hong_Quan_SE18D05_Assignment_01\\Views\\BookingCreateWindow.xaml",
+              "ToolTip": "D:\\Ky5\\prn211\\INCLASS\\Pham_Hong_Quan_SE18D05_Assignment_01\\Pham_Hong_Quan_SE18D05_Assignment_01\\Views\\BookingCreateWindow.xaml",
+              "RelativeToolTip": "Pham_Hong_Quan_SE18D05_Assignment_01\\Views\\BookingCreateWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-22T05:54:57.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BookingCreateViewModel.cs",
+              "DocumentMoniker": "D:\\Ky5\\prn211\\INCLASS\\Pham_Hong_Quan_SE18D05_Assignment_01\\Pham_Hong_Quan_SE18D05_Assignment_01\\ViewModels\\BookingCreateViewModel.cs",
+              "RelativeDocumentMoniker": "Pham_Hong_Quan_SE18D05_Assignment_01\\ViewModels\\BookingCreateViewModel.cs",
+              "ToolTip": "D:\\Ky5\\prn211\\INCLASS\\Pham_Hong_Quan_SE18D05_Assignment_01\\Pham_Hong_Quan_SE18D05_Assignment_01\\ViewModels\\BookingCreateViewModel.cs",
+              "RelativeToolTip": "Pham_Hong_Quan_SE18D05_Assignment_01\\ViewModels\\BookingCreateViewModel.cs",
+              "ViewState": "AgIAANcAAAAAAAAAAAAIwOQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T05:52:25.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AdminWindow.xaml",
+              "DocumentMoniker": "D:\\Ky5\\prn211\\INCLASS\\Pham_Hong_Quan_SE18D05_Assignment_01\\Pham_Hong_Quan_SE18D05_Assignment_01\\Views\\AdminWindow.xaml",
+              "RelativeDocumentMoniker": "Pham_Hong_Quan_SE18D05_Assignment_01\\Views\\AdminWindow.xaml",
+              "ToolTip": "D:\\Ky5\\prn211\\INCLASS\\Pham_Hong_Quan_SE18D05_Assignment_01\\Pham_Hong_Quan_SE18D05_Assignment_01\\Views\\AdminWindow.xaml",
+              "RelativeToolTip": "Pham_Hong_Quan_SE18D05_Assignment_01\\Views\\AdminWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-22T06:20:41.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StringToVisibilityConverter.cs",
+              "DocumentMoniker": "D:\\Ky5\\prn211\\INCLASS\\Pham_Hong_Quan_SE18D05_Assignment_01\\Pham_Hong_Quan_SE18D05_Assignment_01\\Converters\\StringToVisibilityConverter.cs",
+              "RelativeDocumentMoniker": "Pham_Hong_Quan_SE18D05_Assignment_01\\Converters\\StringToVisibilityConverter.cs",
+              "ToolTip": "D:\\Ky5\\prn211\\INCLASS\\Pham_Hong_Quan_SE18D05_Assignment_01\\Pham_Hong_Quan_SE18D05_Assignment_01\\Converters\\StringToVisibilityConverter.cs",
+              "RelativeToolTip": "Pham_Hong_Quan_SE18D05_Assignment_01\\Converters\\StringToVisibilityConverter.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAIwBUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T10:01:43.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IBookingRepository.cs",
+              "DocumentMoniker": "D:\\Ky5\\prn211\\INCLASS\\Pham_Hong_Quan_SE18D05_Assignment_01\\DataAccessLayer\\Repositories\\IBookingRepository.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Repositories\\IBookingRepository.cs",
+              "ToolTip": "D:\\Ky5\\prn211\\INCLASS\\Pham_Hong_Quan_SE18D05_Assignment_01\\DataAccessLayer\\Repositories\\IBookingRepository.cs",
+              "RelativeToolTip": "DataAccessLayer\\Repositories\\IBookingRepository.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA6wBAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T06:27:50.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BookingRepository.cs",
+              "DocumentMoniker": "D:\\Ky5\\prn211\\INCLASS\\Pham_Hong_Quan_SE18D05_Assignment_01\\DataAccessLayer\\Repositories\\BookingRepository.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Repositories\\BookingRepository.cs",
+              "ToolTip": "D:\\Ky5\\prn211\\INCLASS\\Pham_Hong_Quan_SE18D05_Assignment_01\\DataAccessLayer\\Repositories\\BookingRepository.cs",
+              "RelativeToolTip": "DataAccessLayer\\Repositories\\BookingRepository.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAIwGYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T06:27:57.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BaseViewModel.cs",
+              "DocumentMoniker": "D:\\Ky5\\prn211\\INCLASS\\Pham_Hong_Quan_SE18D05_Assignment_01\\Pham_Hong_Quan_SE18D05_Assignment_01\\ViewModels\\BaseViewModel.cs",
+              "RelativeDocumentMoniker": "Pham_Hong_Quan_SE18D05_Assignment_01\\ViewModels\\BaseViewModel.cs",
+              "ToolTip": "D:\\Ky5\\prn211\\INCLASS\\Pham_Hong_Quan_SE18D05_Assignment_01\\Pham_Hong_Quan_SE18D05_Assignment_01\\ViewModels\\BaseViewModel.cs",
+              "RelativeToolTip": "Pham_Hong_Quan_SE18D05_Assignment_01\\ViewModels\\BaseViewModel.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAIwBgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T06:28:14.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BookingReservation.cs",
+              "DocumentMoniker": "D:\\Ky5\\prn211\\INCLASS\\Pham_Hong_Quan_SE18D05_Assignment_01\\BusinessObjects\\BookingReservation.cs",
+              "RelativeDocumentMoniker": "BusinessObjects\\BookingReservation.cs",
+              "ToolTip": "D:\\Ky5\\prn211\\INCLASS\\Pham_Hong_Quan_SE18D05_Assignment_01\\BusinessObjects\\BookingReservation.cs",
+              "RelativeToolTip": "BusinessObjects\\BookingReservation.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA+wA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T06:27:25.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CustomerRepository.cs",
+              "DocumentMoniker": "D:\\Ky5\\prn211\\INCLASS\\Pham_Hong_Quan_SE18D05_Assignment_01\\DataAccessLayer\\Repositories\\CustomerRepository.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Repositories\\CustomerRepository.cs",
+              "ToolTip": "D:\\Ky5\\prn211\\INCLASS\\Pham_Hong_Quan_SE18D05_Assignment_01\\DataAccessLayer\\Repositories\\CustomerRepository.cs*",
+              "RelativeToolTip": "DataAccessLayer\\Repositories\\CustomerRepository.cs*",
+              "ViewState": "AgIAADgAAAAAAAAAAAAUwEcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T09:54:31.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BookingEditWindow.xaml",
+              "DocumentMoniker": "D:\\Ky5\\prn211\\INCLASS\\Pham_Hong_Quan_SE18D05_Assignment_01\\Pham_Hong_Quan_SE18D05_Assignment_01\\Views\\BookingEditWindow.xaml",
+              "RelativeDocumentMoniker": "Pham_Hong_Quan_SE18D05_Assignment_01\\Views\\BookingEditWindow.xaml",
+              "ToolTip": "D:\\Ky5\\prn211\\INCLASS\\Pham_Hong_Quan_SE18D05_Assignment_01\\Pham_Hong_Quan_SE18D05_Assignment_01\\Views\\BookingEditWindow.xaml",
+              "RelativeToolTip": "Pham_Hong_Quan_SE18D05_Assignment_01\\Views\\BookingEditWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-22T05:52:20.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "BookingEditWindow.xaml.cs",
+              "DocumentMoniker": "D:\\Ky5\\prn211\\INCLASS\\Pham_Hong_Quan_SE18D05_Assignment_01\\Pham_Hong_Quan_SE18D05_Assignment_01\\Views\\BookingEditWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Pham_Hong_Quan_SE18D05_Assignment_01\\Views\\BookingEditWindow.xaml.cs",
+              "ToolTip": "D:\\Ky5\\prn211\\INCLASS\\Pham_Hong_Quan_SE18D05_Assignment_01\\Pham_Hong_Quan_SE18D05_Assignment_01\\Views\\BookingEditWindow.xaml.cs",
+              "RelativeToolTip": "Pham_Hong_Quan_SE18D05_Assignment_01\\Views\\BookingEditWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T06:04:57.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Ky5\\prn211\\INCLASS\\Pham_Hong_Quan_SE18D05_Assignment_01\\Pham_Hong_Quan_SE18D05_Assignment_01\\appsettings.json",
+              "RelativeDocumentMoniker": "Pham_Hong_Quan_SE18D05_Assignment_01\\appsettings.json",
+              "ToolTip": "D:\\Ky5\\prn211\\INCLASS\\Pham_Hong_Quan_SE18D05_Assignment_01\\Pham_Hong_Quan_SE18D05_Assignment_01\\appsettings.json",
+              "RelativeToolTip": "Pham_Hong_Quan_SE18D05_Assignment_01\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-22T06:29:56.631Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "RoomType.cs",
+              "DocumentMoniker": "D:\\Ky5\\prn211\\INCLASS\\Pham_Hong_Quan_SE18D05_Assignment_01\\BusinessObjects\\RoomType.cs",
+              "RelativeDocumentMoniker": "BusinessObjects\\RoomType.cs",
+              "ToolTip": "D:\\Ky5\\prn211\\INCLASS\\Pham_Hong_Quan_SE18D05_Assignment_01\\BusinessObjects\\RoomType.cs",
+              "RelativeToolTip": "BusinessObjects\\RoomType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T06:27:43.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "BookingEditViewModel.cs",
+              "DocumentMoniker": "D:\\Ky5\\prn211\\INCLASS\\Pham_Hong_Quan_SE18D05_Assignment_01\\Pham_Hong_Quan_SE18D05_Assignment_01\\ViewModels\\BookingEditViewModel.cs",
+              "RelativeDocumentMoniker": "Pham_Hong_Quan_SE18D05_Assignment_01\\ViewModels\\BookingEditViewModel.cs",
+              "ToolTip": "D:\\Ky5\\prn211\\INCLASS\\Pham_Hong_Quan_SE18D05_Assignment_01\\Pham_Hong_Quan_SE18D05_Assignment_01\\ViewModels\\BookingEditViewModel.cs",
+              "RelativeToolTip": "Pham_Hong_Quan_SE18D05_Assignment_01\\ViewModels\\BookingEditViewModel.cs",
+              "ViewState": "AgIAAM4AAAAAAAAAAAAmwOgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T06:21:46.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "RoomInformation.cs",
+              "DocumentMoniker": "D:\\Ky5\\prn211\\INCLASS\\Pham_Hong_Quan_SE18D05_Assignment_01\\BusinessObjects\\RoomInformation.cs",
+              "RelativeDocumentMoniker": "BusinessObjects\\RoomInformation.cs",
+              "ToolTip": "D:\\Ky5\\prn211\\INCLASS\\Pham_Hong_Quan_SE18D05_Assignment_01\\BusinessObjects\\RoomInformation.cs",
+              "RelativeToolTip": "BusinessObjects\\RoomInformation.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAA9wBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T06:27:38.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AdminWindow.xaml.cs",
+              "DocumentMoniker": "D:\\Ky5\\prn211\\INCLASS\\Pham_Hong_Quan_SE18D05_Assignment_01\\Pham_Hong_Quan_SE18D05_Assignment_01\\Views\\AdminWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Pham_Hong_Quan_SE18D05_Assignment_01\\Views\\AdminWindow.xaml.cs",
+              "ToolTip": "D:\\Ky5\\prn211\\INCLASS\\Pham_Hong_Quan_SE18D05_Assignment_01\\Pham_Hong_Quan_SE18D05_Assignment_01\\Views\\AdminWindow.xaml.cs",
+              "RelativeToolTip": "Pham_Hong_Quan_SE18D05_Assignment_01\\Views\\AdminWindow.xaml.cs",
+              "ViewState": "AgIAAHsAAAAAAAAAAAAmwJQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T06:20:45.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "RoomEditWindow.xaml.cs",
+              "DocumentMoniker": "D:\\Ky5\\prn211\\INCLASS\\Pham_Hong_Quan_SE18D05_Assignment_01\\Pham_Hong_Quan_SE18D05_Assignment_01\\Views\\RoomEditWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Pham_Hong_Quan_SE18D05_Assignment_01\\Views\\RoomEditWindow.xaml.cs",
+              "ToolTip": "D:\\Ky5\\prn211\\INCLASS\\Pham_Hong_Quan_SE18D05_Assignment_01\\Pham_Hong_Quan_SE18D05_Assignment_01\\Views\\RoomEditWindow.xaml.cs",
+              "RelativeToolTip": "Pham_Hong_Quan_SE18D05_Assignment_01\\Views\\RoomEditWindow.xaml.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAA1wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T06:09:01.795Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 64,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

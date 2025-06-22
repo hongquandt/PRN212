@@ -1,0 +1,11 @@
+D:\Ky5\prn211\INCLASS\Pham_Hong_Quan_SE18D05_Assignment_01\BusinessObjects\bin\Debug\net8.0\BusinessObjects.deps.json
+D:\Ky5\prn211\INCLASS\Pham_Hong_Quan_SE18D05_Assignment_01\BusinessObjects\bin\Debug\net8.0\BusinessObjects.dll
+D:\Ky5\prn211\INCLASS\Pham_Hong_Quan_SE18D05_Assignment_01\BusinessObjects\bin\Debug\net8.0\BusinessObjects.pdb
+D:\Ky5\prn211\INCLASS\Pham_Hong_Quan_SE18D05_Assignment_01\BusinessObjects\obj\Debug\net8.0\BusinessObjects.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ky5\prn211\INCLASS\Pham_Hong_Quan_SE18D05_Assignment_01\BusinessObjects\obj\Debug\net8.0\BusinessObjects.AssemblyInfoInputs.cache
+D:\Ky5\prn211\INCLASS\Pham_Hong_Quan_SE18D05_Assignment_01\BusinessObjects\obj\Debug\net8.0\BusinessObjects.AssemblyInfo.cs
+D:\Ky5\prn211\INCLASS\Pham_Hong_Quan_SE18D05_Assignment_01\BusinessObjects\obj\Debug\net8.0\BusinessObjects.csproj.CoreCompileInputs.cache
+D:\Ky5\prn211\INCLASS\Pham_Hong_Quan_SE18D05_Assignment_01\BusinessObjects\obj\Debug\net8.0\BusinessObjects.dll
+D:\Ky5\prn211\INCLASS\Pham_Hong_Quan_SE18D05_Assignment_01\BusinessObjects\obj\Debug\net8.0\refint\BusinessObjects.dll
+D:\Ky5\prn211\INCLASS\Pham_Hong_Quan_SE18D05_Assignment_01\BusinessObjects\obj\Debug\net8.0\BusinessObjects.pdb
+D:\Ky5\prn211\INCLASS\Pham_Hong_Quan_SE18D05_Assignment_01\BusinessObjects\obj\Debug\net8.0\ref\BusinessObjects.dll

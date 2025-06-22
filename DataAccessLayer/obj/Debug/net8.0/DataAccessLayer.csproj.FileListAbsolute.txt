@@ -1,0 +1,15 @@
+D:\Ky5\prn211\INCLASS\Pham_Hong_Quan_SE18D05_Assignment_01\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.deps.json
+D:\Ky5\prn211\INCLASS\Pham_Hong_Quan_SE18D05_Assignment_01\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.dll
+D:\Ky5\prn211\INCLASS\Pham_Hong_Quan_SE18D05_Assignment_01\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.pdb
+D:\Ky5\prn211\INCLASS\Pham_Hong_Quan_SE18D05_Assignment_01\DataAccessLayer\bin\Debug\net8.0\BusinessObjects.dll
+D:\Ky5\prn211\INCLASS\Pham_Hong_Quan_SE18D05_Assignment_01\DataAccessLayer\bin\Debug\net8.0\BusinessObjects.pdb
+D:\Ky5\prn211\INCLASS\Pham_Hong_Quan_SE18D05_Assignment_01\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.csproj.AssemblyReference.cache
+D:\Ky5\prn211\INCLASS\Pham_Hong_Quan_SE18D05_Assignment_01\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ky5\prn211\INCLASS\Pham_Hong_Quan_SE18D05_Assignment_01\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.AssemblyInfoInputs.cache
+D:\Ky5\prn211\INCLASS\Pham_Hong_Quan_SE18D05_Assignment_01\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.AssemblyInfo.cs
+D:\Ky5\prn211\INCLASS\Pham_Hong_Quan_SE18D05_Assignment_01\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\Ky5\prn211\INCLASS\Pham_Hong_Quan_SE18D05_Assignment_01\DataAccessLayer\obj\Debug\net8.0\DataAcce.E67BD773.Up2Date
+D:\Ky5\prn211\INCLASS\Pham_Hong_Quan_SE18D05_Assignment_01\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.dll
+D:\Ky5\prn211\INCLASS\Pham_Hong_Quan_SE18D05_Assignment_01\DataAccessLayer\obj\Debug\net8.0\refint\DataAccessLayer.dll
+D:\Ky5\prn211\INCLASS\Pham_Hong_Quan_SE18D05_Assignment_01\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.pdb
+D:\Ky5\prn211\INCLASS\Pham_Hong_Quan_SE18D05_Assignment_01\DataAccessLayer\obj\Debug\net8.0\ref\DataAccessLayer.dll
